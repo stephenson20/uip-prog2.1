@@ -1,0 +1,21 @@
+JAVA FX
+
+Que es?
+
+Es un software para la creacion de aplicaciones.Se utiliza para la creacion de aplicaciones web que tienen las caracteristicas y capacidades de aplicaciones de escritorio, incluyendo aplicaciones multimedia interactivas
+
+
+
+Como se instala?
+1.Verificar los requerimientos minimos
+2. Ir a la pagina de descarga de Java FX
+3.ubicar el link de javafx runtime, seleccionar el sistema operativo de la maquina sigue las instrucciones que brinda el archivo ejecutable
+4.y por ultimo correr el archivo ejecutable.
+
+
+En que componente viene? 
+para celulares, la Web, TV, consolas de videojuegos, reproductores Blu-ray, entre otras plataformas planeadas.
+
+Como funciona?
+Funciona para dr la programacion orientada a objetos.
+Event driven programming Funciona dependiendo del evento que suceda y que sera ddterminado por el usuario.
