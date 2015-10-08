@@ -1,0 +1,23 @@
+JAVA version
+
+Ultima version de Java:
+Version 8 Update 60
+Fecha de versión: 18 de agosto de 2015 
+
+Caracteristicas de Java 8
+Java 8 Update 60 (8u60)
+Release Highlights:
+-Bug Fix: dns_lookup_realm should be false by default
+-Bug Fix: Disable RC4 cipher suites
+-Bug Fix: Support keystore type detection for JKS and PKCS12 keystores
+-Bug Fix: Deprecate Unsafe monitor methods in JDK 8u release
+-Bug Fix: Extract JFR recording from the core file using SA
+-Bug Fix: Local variables named 'enum' lead to spurious compiler crashes
+
+
+Java Expiration Date
+The expiration date for 8u60 is October 20, 2015. Java expires whenever a new release with security vulnerability fixes becomes available. For systems unable to reach the Oracle Servers, a secondary mechanism expires this JRE (version 8u60) on November 20, 2015. After either condition is met (new release becoming available or expiration date reached), Java will provide additional warnings and reminders to users to update to the newer version.
+
+
+
+
